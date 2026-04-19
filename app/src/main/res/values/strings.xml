@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Interface Login Form</string>
+    <string name="signin_text">Already have an account? <font color="#FFBB86FC">Sign in</font></string>
+    <string name="signup_text">Dont have an account? <font color="#FFBB86FC">Sign up</font></string>
+</resources>
